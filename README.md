@@ -1,2 +1,2 @@
-# Spelling-Corrector-
+# NLP Spelling-Corrector-
 NLP implementaion 
